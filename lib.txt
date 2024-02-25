@@ -1,0 +1,69 @@
+subprocess
+allows you to run other programs from your Python code.
+
+wolframalpha
+allows you to query the WolframAlpha knowledge engine.
+
+pyttsx3
+allows you to synthesize speech from text.
+
+tkinter
+allows you to create graphical user interfaces.
+ui --> user interface
+GUI -->
+
+json
+allows you to work with JSON data.
+
+random
+allows you to generate random numbers and sequences.
+
+operator
+provides a number of useful functions for operating on data.
+
+speech_recognition
+import   SpeechRecognition
+import   speech_recognition
+allows you to recognize speech from audio recordings.
+
+datetime
+provides functions for working with dates and times.
+
+wikipedia
+allows you to access and query the Wikipedia knowledge base.
+
+webbrowser
+allows you to open web pages from your Python code.
+os
+provides functions for interacting with the operating system.
+winshell
+provides
+functions for interacting with the Windows operating system.
+pyjokes
+provides a number of jokes that you can tell from your Python code.
+feedparser
+allows you to parse RSS and Atom feeds.
+smtplib
+allows you to send emails from your Python code.
+ctypes
+allows you to interact with native C libraries from your Python code.
+time
+provides functions for working with time.
+requests
+allows you to make HTTP requests from your Python code.
+shutil
+allows you to copy, move, and delete files and directories.
+twilio
+allows you to send text messages and make phone calls from your Python code.
+clint.textui.progress
+provides a progress bar for long-running tasks.
+ecapture
+allows you to capture audio from a microphone.
+pyaudio
+allows you to record and play audio.
+bs4
+allows you to parse HTML and XML documents.
+win32com.client
+allows you to interact with Windows COM objects from your Python code.
+urllib.request
+allows you to open URLs and read their contents.
